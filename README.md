@@ -1,56 +1,66 @@
-# Minimalist "Whitening Glow" Routine (Oily Skin)
-**Location:** Thailand (High Humidity/High UV)
-**Focus:** Melanin Inhibition, Cell Turnover, and Oil Control.
+# My Daily Skincare Routine (Thailand - Acne-Prone & Brightening Focus)
 
----
+## Goals
+- Control acne and blemishes
+- Exfoliate dead skin
+- Fade acne scars and dark spots
+- Control oil/sebum
+- Brighten overall skin tone
+- Hydrate without feeling heavy (perfect for humid weather)
 
-## 🛒 Product List
+## Products Used
+1. **Cleanser**: Bio-Essence Bio-Bird's Nest Imperial Bird's Nest Collagen Cleanser  
+2. **Exfoliating Serum (PM only)**: The Skin Collection AHA 10% + BHA 2% Serum (red box)  
+3. **Brightening Serum**: The Skin Collection Niacinamide 10% + NAG 8% Serum (yellow box)  
+4. **Moisturizer**: Garnier Bright Complete Vitamin C Water Gel  
+5. **Sunscreen**: Bioré UV Aqua Rich Watery Gel SPF50+ PA++++
 
-| Brand | Product | Purpose |
-| :--- | :--- | :--- |
-| **The Skin Collection** | Moisturizing Cleanser | Gentle PM cleaning |
-| **The Skin Collection** | Niacinamide 10% + NAG 8% | Brightening & Oil Control |
-| **The Skin Collection** | Actosome Retinol Serum | Resurfacing & Glow |
-| **CeraVe** | Oil Control Moisturising Gel-Cream | Lightweight Hydration |
-| **Biore** | UV Aqua Rich Watery Essence | SPF 50+ PA++++ Protection |
+## Morning Routine (Brighten + Hydrate + Protect)
 
----
+1. **Cleanse**  
+   - Use Bio-Essence Collagen Cleanser  
+   - Wet face → massage gently → rinse thoroughly
 
-## 📅 Weekly Schedule
+2. **Serum**  
+   - Apply The Skin Collection Niacinamide 10% + NAG 8% Serum (3–5 drops)  
+   - Pat gently until absorbed  
+   → Helps control oil and brighten throughout the day
 
-To avoid irritation while using Retinol, follow this "Slow Start" schedule for the first 2-4 weeks.
+3. **Moisturizer**  
+   - Garnier Vitamin C Water Gel (pea-size or more)  
+   - Spread evenly → absorbs quickly, non-greasy
 
-| Day | Morning (AM) | Evening (PM) |
-| :--- | :--- | :--- |
-| **Monday** | Brighten & Protect | **Retinol Night** |
-| **Tuesday** | Brighten & Protect | Recovery (Niacinamide only) |
-| **Wednesday** | Brighten & Protect | Recovery (Niacinamide only) |
-| **Thursday** | Brighten & Protect | **Retinol Night** |
-| **Friday** | Brighten & Protect | Recovery (Niacinamide only) |
-| **Saturday** | Brighten & Protect | Recovery (Niacinamide only) |
-| **Sunday** | Brighten & Protect | Recovery (Niacinamide only) |
+4. **Sunscreen**  
+   - Bioré UV Aqua Rich Watery Gel (generous amount ~¼ tsp for face)  
+   - Apply as last step  
+   - Reapply every 2–3 hours if outdoors
 
-*Note: Once skin tolerance is built, you can use Retinol every other night (Alt. nights).*
+## Evening Routine (Repair + Exfoliate + Brighten)
 
----
+1. **Cleanse**  
+   - Same Bio-Essence Collagen Cleanser  
+   - Double cleanse if wearing sunscreen/makeup
 
-## ☀️ Morning Routine (AM)
-1. **Cleanse:** Wash with plain water (best for oily skin to maintain barrier).
-2. **Treat:** Apply 2-3 drops of **Niacinamide 10% + NAG 8%** on damp skin.
-3. **Moisturize:** Apply a small amount of **CeraVe Oil Control Gel-Cream** (only if skin feels tight).
-4. **Protect:** Apply **Biore UV Aqua Rich** (Two-finger rule). **MANDATORY STEP.**
+2. **Exfoliating Serum (2–3 nights per week only)**  
+   - Apply The Skin Collection AHA 10% + BHA 2% Serum (3–4 drops) on dry skin  
+   - Wait 10–20 minutes (may tingle slightly — normal)  
+   - **Start slowly**: 2x/week → increase if no irritation  
+   - On non-exfoliating nights → skip this step
 
-## 🌙 Evening Routine (PM)
-1. **Cleanse:** Use **The Skin Collection Moisturizing Cleanser**. Massage for 60s.
-2. **Prep:** Pat face **completely dry** (especially on Retinol nights).
-3. **Treat (Layering):**
-   - Apply **Niacinamide 10% + NAG 8%** first. Wait 2 minutes.
-   - Apply a pea-sized amount of **Actosome Retinol** (on scheduled nights).
-4. **Seal:** Apply **CeraVe Oil Control Moisturising Gel-Cream** to lock in actives.
+3. **Brightening Serum**  
+   - Apply Niacinamide 10% + NAG 8% Serum  
+   - Wait 5–10 minutes after AHA/BHA if used together  
+   → Calms skin, fades scars, controls oil
 
----
+4. **Moisturizer**  
+   - Garnier Vitamin C Water Gel  
+   - Lock in all actives
 
-## 💡 Pro-Tips for Thailand
-* **The "Wait" Rule:** Always wait for your skin to be dry before applying Retinol. Applying it on damp skin increases the risk of irritation in high humidity.
-* **Sun Sensitivity:** Retinol makes your skin more prone to burning. If you plan to be outdoors (beach/hiking), skip the Retinol the night before.
-* **Storage:** Keep your The Skin Collection serums in a cool, dark place (away from direct Thai sunlight) to maintain the potency of the actives.
+## Important Tips
+- **Patch test** the AHA/BHA serum first (behind ear or inner arm).
+- Always wear sunscreen daily — actives (AHA/BHA + Vitamin C) increase sun sensitivity.
+- If skin feels dry, tight, or irritated → reduce AHA/BHA frequency or use more moisturizer.
+- Expect results (clearer, brighter, smoother skin) in 4–6 weeks with consistency.
+- All products are lightweight and suitable for Thailand's hot/humid climate.
+
+Enjoy clearer, glowy skin! ✨
