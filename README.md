@@ -1,66 +1,53 @@
-# My Daily Skincare Routine (Thailand - Acne-Prone & Brightening Focus)
+# High-Speed "New Skin" Transformation Routine (Thailand Edition)
 
-## Goals
-- Control acne and blemishes
-- Exfoliate dead skin
-- Fade acne scars and dark spots
-- Control oil/sebum
-- Brighten overall skin tone
-- Hydrate without feeling heavy (perfect for humid weather)
+This routine is designed for maximum speed and efficacy, balancing high-potency actives (Retinoids and Acids) with barrier repair technology available in Thailand.
 
-## Products Used
-1. **Cleanser**: Bio-Essence Bio-Bird's Nest Imperial Bird's Nest Collagen Cleanser  
-2. **Exfoliating Serum (PM only)**: The Skin Collection AHA 10% + BHA 2% Serum (red box)  
-3. **Brightening Serum**: The Skin Collection Niacinamide 10% + NAG 8% Serum (yellow box)  
-4. **Moisturizer**: Garnier Bright Complete Vitamin C Water Gel  
-5. **Sunscreen**: Bioré UV Aqua Rich Watery Gel SPF50+ PA++++
+## 🛠 The Arsenal
+| Product | Purpose | Key Actives |
+| :--- | :--- | :--- |
+| **MizuMi Advance Retinoic Ester** | Deep Transformation | 2% HPR (Retinoic Ester) |
+| **The Skin Collection AHA/BHA** | Surface Resurfacing | 10% AHA + 2% BHA |
+| **The Skin Collection Niacinamide**| Pores & Barrier | 10% Niacinamide + 8% NAG |
+| **Garnier Vit C Water Gel** | Brightening | Vitamin C + Hyaluronic Acid |
+| **Skintific 5X Ceramide** | Protection | Ceramides (Barrier Repair) |
+| **Biore UV Aqua Rich** | Defense | SPF 50+ PA++++ |
 
-## Morning Routine (Brighten + Hydrate + Protect)
+---
 
-1. **Cleanse**  
-   - Use Bio-Essence Collagen Cleanser  
-   - Wet face → massage gently → rinse thoroughly
+## 📅 Weekly Schedule
 
-2. **Serum**  
-   - Apply The Skin Collection Niacinamide 10% + NAG 8% Serum (3–5 drops)  
-   - Pat gently until absorbed  
-   → Helps control oil and brighten throughout the day
+### Morning Routine (Daily)
+*Focus: Protect, Brighten, and Hydrate*
+1. **Cleanse:** Wash with water or a gentle cleanser.
+2. **Layer 1:** Apply **Garnier Vit C Water Gel** to damp skin.
+3. **Layer 2:** Apply **Skin Collection Niacinamide 10% + NAG 8%**.
+4. **Layer 3:** **Biore UV Aqua Rich Sunscreen**. (Apply 2 finger-lengths for full face).
 
-3. **Moisturizer**  
-   - Garnier Vitamin C Water Gel (pea-size or more)  
-   - Spread evenly → absorbs quickly, non-greasy
+### Night Routine (Transformation)
+*Focus: Exfoliation and Cell Turnover*
 
-4. **Sunscreen**  
-   - Bioré UV Aqua Rich Watery Gel (generous amount ~¼ tsp for face)  
-   - Apply as last step  
-   - Reapply every 2–3 hours if outdoors
+| Day | Night Active | Follow-up |
+| :--- | :--- | :--- |
+| **Mon** | **MizuMi Retinoic Ester** | Skintific 5X Ceramide |
+| **Tue** | **AHA 10% BHA 2%** | Skintific 5X Ceramide |
+| **Wed** | **MizuMi Retinoic Ester** | Skintific 5X Ceramide |
+| **Thu** | **AHA 10% BHA 2%** | Skintific 5X Ceramide |
+| **Fri** | **MizuMi Retinoic Ester** | Skintific 5X Ceramide |
+| **Sat** | **AHA 10% BHA 2%** | Skintific 5X Ceramide |
+| **Sun** | **Recovery:** Niacinamide Serum | Skintific 5X Ceramide |
 
-## Evening Routine (Repair + Exfoliate + Brighten)
+---
 
-1. **Cleanse**  
-   - Same Bio-Essence Collagen Cleanser  
-   - Double cleanse if wearing sunscreen/makeup
+## 💡 Important Protocols
 
-2. **Exfoliating Serum (2–3 nights per week only)**  
-   - Apply The Skin Collection AHA 10% + BHA 2% Serum (3–4 drops) on dry skin  
-   - Wait 10–20 minutes (may tingle slightly — normal)  
-   - **Start slowly**: 2x/week → increase if no irritation  
-   - On non-exfoliating nights → skip this step
+### 1. The "Wait" Rule
+To ensure maximum potency, let your active serum (**Retinoic Ester** or **AHA/BHA**) absorb for **3 minutes** before applying the **Skintific Barrier Cream**. This prevents dilution.
 
-3. **Brightening Serum**  
-   - Apply Niacinamide 10% + NAG 8% Serum  
-   - Wait 5–10 minutes after AHA/BHA if used together  
-   → Calms skin, fades scars, controls oil
+### 2. The Sunday Reset
+Sunday is a "no-acid" night. This allows the Ceramides to fully repair the skin barrier, ensuring you get the "Glass Skin" glow instead of irritation or peeling.
 
-4. **Moisturizer**  
-   - Garnier Vitamin C Water Gel  
-   - Lock in all actives
+### 3. Sun Sensitivity
+Using both AHA and Retinoids increases sun sensitivity by 100%. If you are outdoors in Thailand, re-apply the **Biore UV** every 3-4 hours to prevent "New Skin" from darkening.
 
-## Important Tips
-- **Patch test** the AHA/BHA serum first (behind ear or inner arm).
-- Always wear sunscreen daily — actives (AHA/BHA + Vitamin C) increase sun sensitivity.
-- If skin feels dry, tight, or irritated → reduce AHA/BHA frequency or use more moisturizer.
-- Expect results (clearer, brighter, smoother skin) in 4–6 weeks with consistency.
-- All products are lightweight and suitable for Thailand's hot/humid climate.
-
-Enjoy clearer, glowy skin! ✨
+### 4. Signs of Over-Exfoliation
+If your skin feels stinging when applying moisturizer or looks "plastic-wrap" shiny, skip the actives for 2 nights and only use the **Niacinamide** and **Skintific Ceramide Cream**.
