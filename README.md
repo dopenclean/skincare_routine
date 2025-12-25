@@ -20,16 +20,16 @@
 3. **Step 2:** **Garnier Vit C Water Gel** (Moisturize & Brighten).
 4. **Step 3:** **Biore UV Aqua Rich Sunscreen** (Crucial step).
 
-### Night Routine (Skin Cycling)
-| Day | Phase | Step 1 (Active) | Step 2 (Seal) |
+### Night Routine (The 3-Day Cycle)
+| Night | Phase | Step 1 (Active) | Step 2 (Seal) |
 | :--- | :--- | :--- | :--- |
-| **Mon** | Retinoid | MizuMi Retinoic Ester | Skintific 5X Ceramide |
-| **Tue** | Acid | AHA 10% BHA 2% | Skintific 5X Ceramide |
-| **Wed** | Retinoid | MizuMi Retinoic Ester | Skintific 5X Ceramide |
-| **Thu** | Acid | AHA 10% BHA 2% | Skintific 5X Ceramide |
-| **Fri** | Retinoid | MizuMi Retinoic Ester | Skintific 5X Ceramide |
-| **Sat** | Acid | AHA 10% BHA 2% | Skintific 5X Ceramide |
-| **Sun** | Recovery | Niacinamide Serum | Skintific 5X Ceramide |
+| **Mon** | **Exfoliate** | AHA 10% BHA 2% | Skintific 5X Ceramide |
+| **Tue** | **Retinoid** | MizuMi Retinoic Ester | Skintific 5X Ceramide |
+| **Wed** | **Recovery** | Niacinamide Serum | Skintific 5X Ceramide |
+| **Thu** | **Exfoliate** | AHA 10% BHA 2% | Skintific 5X Ceramide |
+| **Fri** | **Retinoid** | MizuMi Retinoic Ester | Skintific 5X Ceramide |
+| **Sat** | **Recovery** | Niacinamide Serum | Skintific 5X Ceramide |
+| **Sun** | **Recovery** | Niacinamide Serum | Skintific 5X Ceramide |
 
 ---
 
