@@ -1,41 +1,43 @@
 # High-Speed "New Skin" Transformation Routine (Thailand Edition)
 
-This routine is designed for maximum speed and efficacy, balancing high-potency actives (Retinoids and Acids) with barrier repair technology available in Thailand.
-
 ## 🛠 The Arsenal
-| Product | Purpose | Key Actives |
+| Product | Purpose | Texture |
 | :--- | :--- | :--- |
-| **MizuMi Advance Retinoic Ester** | Deep Transformation | 2% HPR (Retinoic Ester) |
-| **The Skin Collection AHA/BHA** | Surface Resurfacing | 10% AHA + 2% BHA |
-| **The Skin Collection Niacinamide**| Pores & Barrier | 10% Niacinamide + 8% NAG |
-| **Garnier Vit C Water Gel** | Brightening | Vitamin C + Hyaluronic Acid |
-| **Skintific 5X Ceramide** | Protection | Ceramides (Barrier Repair) |
-| **Biore UV Aqua Rich** | Defense | SPF 50+ PA++++ |
+| **MizuMi Retinoic Ester** | Deep Cell Renewal | Serum |
+| **Skin Collection Niacinamide**| Pores & Barrier Repair | Thin Liquid |
+| **Garnier Vit C Water Gel** | Brightening | Light Gel |
+| **Skin Collection AHA/BHA** | Surface Peeling | Thin Liquid |
+| **Skintific 5X Ceramide** | Barrier "Glue" | Creamy Gel |
+| **Biore UV Aqua Rich** | Sun Defense | Fluid |
 
 ---
 
-## 📅 Weekly Schedule
+## 📅 The 7-Day Fast Track
 
 ### Morning Routine (Daily)
-*Focus: Protect, Brighten, and Hydrate*
-1. **Cleanse:** Wash with water or a gentle cleanser.
-2. **Layer 1:** Apply **Garnier Vit C Water Gel** to damp skin.
-3. **Layer 2:** Apply **Skin Collection Niacinamide 10% + NAG 8%**.
-4. **Layer 3:** **Biore UV Aqua Rich Sunscreen**. (Apply 2 finger-lengths for full face).
+1. **Cleanse:** Water or gentle wash.
+2. **Step 1:** **Skin Collection Niacinamide 10% + NAG 8%** (Apply to face first).
+3. **Step 2:** **Garnier Vit C Water Gel** (Moisturize & Brighten).
+4. **Step 3:** **Biore UV Aqua Rich Sunscreen** (Crucial step).
 
-### Night Routine (Transformation)
-*Focus: Exfoliation and Cell Turnover*
+### Night Routine (Skin Cycling)
+| Day | Phase | Step 1 (Active) | Step 2 (Seal) |
+| :--- | :--- | :--- | :--- |
+| **Mon** | Retinoid | MizuMi Retinoic Ester | Skintific 5X Ceramide |
+| **Tue** | Acid | AHA 10% BHA 2% | Skintific 5X Ceramide |
+| **Wed** | Retinoid | MizuMi Retinoic Ester | Skintific 5X Ceramide |
+| **Thu** | Acid | AHA 10% BHA 2% | Skintific 5X Ceramide |
+| **Fri** | Retinoid | MizuMi Retinoic Ester | Skintific 5X Ceramide |
+| **Sat** | Acid | AHA 10% BHA 2% | Skintific 5X Ceramide |
+| **Sun** | Recovery | Niacinamide Serum | Skintific 5X Ceramide |
 
-| Day | Night Active | Follow-up |
-| :--- | :--- | :--- |
-| **Mon** | **MizuMi Retinoic Ester** | Skintific 5X Ceramide |
-| **Tue** | **AHA 10% BHA 2%** | Skintific 5X Ceramide |
-| **Wed** | **MizuMi Retinoic Ester** | Skintific 5X Ceramide |
-| **Thu** | **AHA 10% BHA 2%** | Skintific 5X Ceramide |
-| **Fri** | **MizuMi Retinoic Ester** | Skintific 5X Ceramide |
-| **Sat** | **AHA 10% BHA 2%** | Skintific 5X Ceramide |
-| **Sun** | **Recovery:** Niacinamide Serum | Skintific 5X Ceramide |
+---
 
+## 💡 Quick Rules
+* **Dry Skin Only:** Apply the MizuMi and AHA/BHA to completely dry skin to prevent irritation.
+* **The 3-Minute Rule:** Wait 3 mins after your night "Active" before applying the Skintific cream.
+* **Sun Shield:** New skin is highly sensitive. Re-apply Biore UV if outdoors in the Thai sun.
+*
 ---
 
 ## 💡 Important Protocols
