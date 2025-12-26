@@ -83,6 +83,7 @@ Recovery nights: Tue, Thu, Sat → extra calming & oil control
 ## Product Details & Application Guide (Full Knowledge)
 
 ### 1. COSRX Low pH Good Morning Gel Cleanser  
+
 <div style="text-align: center; margin: 40px 0;">
   <img src="https://medias.watsons.co.th/publishing/WTCTH-BP_306438-front-zoom.jpg" alt="COSRX Low pH Good Morning Gel Cleanser" style="width: 350px; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
 </div>
