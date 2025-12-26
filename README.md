@@ -116,5 +116,3 @@ Recovery nights: Tue, Thu, Sat → extra calming & oil control
 - If skin ever feels overwhelmed → drop one retinol night.  
 - Expected glow timeline: noticeable at 4–6 weeks, full glass skin at 8–12 weeks, maintained forever.  
 - Store products in cool, dark place (retinol especially).  
-
-Copy this entire file to your GitHub — check it daily! You’ve got this ✨
