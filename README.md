@@ -1,4 +1,7 @@
 # 7-Day Skincare Routine for K-Pop Glow (Oily Skin)  
+
+<img width="640" height="300" alt="image" src="https://github.com/user-attachments/assets/2ec1d03a-945d-4b99-b253-c135b59f8050" />
+
 **Goal**: Dewy, even-toned, smooth, pore-minimized glass skin – no makeup needed.  
 **Skin Type**: Oily  
 **Products Used**:  
