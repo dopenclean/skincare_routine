@@ -86,7 +86,7 @@ Recovery nights: Tue, Thu, Sat → extra calming & oil control
 <div style="text-align: center; margin: 40px 0;">
   <img src="https://medias.watsons.co.th/publishing/WTCTH-BP_306438-front-zoom.jpg" alt="COSRX Low pH Good Morning Gel Cleanser" style="width: 350px; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
 </div>
-</div>
+
 **Power**: Gentle daily cleanser that removes excess sebum, dirt, and sweat without stripping natural oils. pH 5–6 matches skin’s natural acidity → prevents rebound oiliness, tightness, or barrier damage. Contains tea tree oil (mild antibacterial) and BHA (very low % for subtle exfoliation).  
 **How to apply**: Wet face → pea-size amount → massage gently 30–60 sec → rinse thoroughly. Use AM & PM.  
 **Why powerful for oily skin**: Keeps microbiome balanced, reduces shine over time, preps skin perfectly for actives.
